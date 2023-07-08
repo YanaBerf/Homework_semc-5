@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "zd3_max-min/1.0.0": {
+        "runtime": {
+          "zd3_max-min.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zd3_max-min/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\79160\Desktop\homework_semc#5\zd3_max-min\obj\Debug\net6.0\zd3_max-min.GlobalUsings.g.cs
+C:\Users\79160\Desktop\homework_semc#5\zd3_max-min\obj\Debug\net6.0\zd3_max-min.csproj.AssemblyReference.cache
+C:\Users\79160\Desktop\homework_semc#5\zd3_max-min\obj\Debug\net6.0\zd3_max-min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79160\Desktop\homework_semc#5\zd3_max-min\obj\Debug\net6.0\zd3_max-min.AssemblyInfoInputs.cache
+C:\Users\79160\Desktop\homework_semc#5\zd3_max-min\obj\Debug\net6.0\zd3_max-min.AssemblyInfo.cs
+C:\Users\79160\Desktop\homework_semc#5\zd3_max-min\obj\Debug\net6.0\zd3_max-min.csproj.CoreCompileInputs.cache
+C:\Users\79160\Desktop\homework_semc#5\zd3_max-min\bin\Debug\net6.0\zd3_max-min.exe
+C:\Users\79160\Desktop\homework_semc#5\zd3_max-min\bin\Debug\net6.0\zd3_max-min.deps.json
+C:\Users\79160\Desktop\homework_semc#5\zd3_max-min\bin\Debug\net6.0\zd3_max-min.runtimeconfig.json
+C:\Users\79160\Desktop\homework_semc#5\zd3_max-min\bin\Debug\net6.0\zd3_max-min.dll
+C:\Users\79160\Desktop\homework_semc#5\zd3_max-min\bin\Debug\net6.0\ref\zd3_max-min.dll
+C:\Users\79160\Desktop\homework_semc#5\zd3_max-min\bin\Debug\net6.0\zd3_max-min.pdb
+C:\Users\79160\Desktop\homework_semc#5\zd3_max-min\obj\Debug\net6.0\zd3_max-min.dll
+C:\Users\79160\Desktop\homework_semc#5\zd3_max-min\obj\Debug\net6.0\ref\zd3_max-min.dll
+C:\Users\79160\Desktop\homework_semc#5\zd3_max-min\obj\Debug\net6.0\zd3_max-min.pdb
+C:\Users\79160\Desktop\homework_semc#5\zd3_max-min\obj\Debug\net6.0\zd3_max-min.genruntimeconfig.cache
