@@ -1,0 +1,16 @@
+C:\Users\79160\Desktop\homework_semc#5\zd2_sum_odd\bin\Debug\net6.0\zd2_sum_odd.exe
+C:\Users\79160\Desktop\homework_semc#5\zd2_sum_odd\bin\Debug\net6.0\zd2_sum_odd.deps.json
+C:\Users\79160\Desktop\homework_semc#5\zd2_sum_odd\bin\Debug\net6.0\zd2_sum_odd.runtimeconfig.json
+C:\Users\79160\Desktop\homework_semc#5\zd2_sum_odd\bin\Debug\net6.0\zd2_sum_odd.dll
+C:\Users\79160\Desktop\homework_semc#5\zd2_sum_odd\bin\Debug\net6.0\ref\zd2_sum_odd.dll
+C:\Users\79160\Desktop\homework_semc#5\zd2_sum_odd\bin\Debug\net6.0\zd2_sum_odd.pdb
+C:\Users\79160\Desktop\homework_semc#5\zd2_sum_odd\obj\Debug\net6.0\zd2_sum_odd.GlobalUsings.g.cs
+C:\Users\79160\Desktop\homework_semc#5\zd2_sum_odd\obj\Debug\net6.0\zd2_sum_odd.csproj.AssemblyReference.cache
+C:\Users\79160\Desktop\homework_semc#5\zd2_sum_odd\obj\Debug\net6.0\zd2_sum_odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79160\Desktop\homework_semc#5\zd2_sum_odd\obj\Debug\net6.0\zd2_sum_odd.AssemblyInfoInputs.cache
+C:\Users\79160\Desktop\homework_semc#5\zd2_sum_odd\obj\Debug\net6.0\zd2_sum_odd.AssemblyInfo.cs
+C:\Users\79160\Desktop\homework_semc#5\zd2_sum_odd\obj\Debug\net6.0\zd2_sum_odd.csproj.CoreCompileInputs.cache
+C:\Users\79160\Desktop\homework_semc#5\zd2_sum_odd\obj\Debug\net6.0\zd2_sum_odd.dll
+C:\Users\79160\Desktop\homework_semc#5\zd2_sum_odd\obj\Debug\net6.0\ref\zd2_sum_odd.dll
+C:\Users\79160\Desktop\homework_semc#5\zd2_sum_odd\obj\Debug\net6.0\zd2_sum_odd.pdb
+C:\Users\79160\Desktop\homework_semc#5\zd2_sum_odd\obj\Debug\net6.0\zd2_sum_odd.genruntimeconfig.cache
