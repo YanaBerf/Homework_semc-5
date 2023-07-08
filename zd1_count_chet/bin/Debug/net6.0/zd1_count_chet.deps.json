@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "zd1_count_chet/1.0.0": {
+        "runtime": {
+          "zd1_count_chet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zd1_count_chet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

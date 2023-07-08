@@ -1,0 +1,16 @@
+C:\Users\79160\Desktop\homework_semc#5\zd1_count_chet\obj\Debug\net6.0\zd1_count_chet.GlobalUsings.g.cs
+C:\Users\79160\Desktop\homework_semc#5\zd1_count_chet\obj\Debug\net6.0\zd1_count_chet.csproj.AssemblyReference.cache
+C:\Users\79160\Desktop\homework_semc#5\zd1_count_chet\obj\Debug\net6.0\zd1_count_chet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79160\Desktop\homework_semc#5\zd1_count_chet\obj\Debug\net6.0\zd1_count_chet.AssemblyInfoInputs.cache
+C:\Users\79160\Desktop\homework_semc#5\zd1_count_chet\obj\Debug\net6.0\zd1_count_chet.AssemblyInfo.cs
+C:\Users\79160\Desktop\homework_semc#5\zd1_count_chet\obj\Debug\net6.0\zd1_count_chet.csproj.CoreCompileInputs.cache
+C:\Users\79160\Desktop\homework_semc#5\zd1_count_chet\bin\Debug\net6.0\zd1_count_chet.exe
+C:\Users\79160\Desktop\homework_semc#5\zd1_count_chet\bin\Debug\net6.0\zd1_count_chet.deps.json
+C:\Users\79160\Desktop\homework_semc#5\zd1_count_chet\bin\Debug\net6.0\zd1_count_chet.runtimeconfig.json
+C:\Users\79160\Desktop\homework_semc#5\zd1_count_chet\bin\Debug\net6.0\zd1_count_chet.dll
+C:\Users\79160\Desktop\homework_semc#5\zd1_count_chet\bin\Debug\net6.0\ref\zd1_count_chet.dll
+C:\Users\79160\Desktop\homework_semc#5\zd1_count_chet\bin\Debug\net6.0\zd1_count_chet.pdb
+C:\Users\79160\Desktop\homework_semc#5\zd1_count_chet\obj\Debug\net6.0\zd1_count_chet.dll
+C:\Users\79160\Desktop\homework_semc#5\zd1_count_chet\obj\Debug\net6.0\ref\zd1_count_chet.dll
+C:\Users\79160\Desktop\homework_semc#5\zd1_count_chet\obj\Debug\net6.0\zd1_count_chet.pdb
+C:\Users\79160\Desktop\homework_semc#5\zd1_count_chet\obj\Debug\net6.0\zd1_count_chet.genruntimeconfig.cache
